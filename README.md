@@ -36,3 +36,5 @@ The estimator estimates the volume of fluid consumed during drinking events
 - Limited sample size
 - Varying data collection software (potentially varying sample sizes)
 - Carbonated beverages?
+- Drinking speed
+
