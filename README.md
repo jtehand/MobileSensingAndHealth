@@ -30,3 +30,9 @@ The estimator estimates the volume of fluid consumed during drinking events
 - [Matplotlib](https://matplotlib.org/): A python library for plotting
 - [SciPy](https://www.scipy.org/): A python library for scientific computing
 - [keras](keras.io): A python library for deep learning frameworks
+
+
+## Limitations
+- Limited sample size
+- Varying data collection software (potentially varying sample sizes)
+- Carbonated beverages?
