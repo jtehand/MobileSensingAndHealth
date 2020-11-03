@@ -10,7 +10,7 @@
 3. Talk: 40 samples each of random talking events
 4. Breathe: 40 samples each of random breathing events
 #### Naming Convention
-- {Initials} _ {Activity} _ {Amount(mL)}
+- {Initials} _ {Activity&Amount(mL)} _ {Sample #}
 - ex. *TD_Drink_20.wav* 
 
 
