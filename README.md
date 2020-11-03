@@ -1,7 +1,7 @@
 # MobileSensingAndHealth
 *Repository for a Fluid Consumption Classifier and Estimator*
 
-## Data Collection
+## Data Collection Methods
 ####  Hardware
 - Audio Data will be collect by the 3 collaborators using a [AV-JEFE TR-15 Throat Transdermal Microphone for Speech Difficulties](https://www.superaudioworld.com/product-page/av-jefe-tr-15-throat-transdermal-microphone-for-speech-difficulties) and stored as digital audio files in the lossless Waveform Audio File format (.wav) format
 #### Activities Collected
